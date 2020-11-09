@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+/* html font size, default browser font size  */
+.relative {
+  font-size: 2rem;
+}
+
+.relative2 {
+  font-size: 2em;
+}
+
+.absolute {
+  font-size: 20px;
+}
